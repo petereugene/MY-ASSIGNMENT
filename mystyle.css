@@ -1,0 +1,41 @@
+.box1{
+    background-color: skyblue;
+    display: flex;
+    height: 450px;
+    margin: 450px;
+    align-items: center;
+    justify-content: center;
+
+    }
+
+
+.box2{
+    background-color: #eaf0f6;
+    width: 360px;
+    height: 215px;
+    border-radius: 10%;
+    text-align: center; 
+    border-style: solid;
+    border-color: #b6c7d6;
+    position: relative;
+    
+}
+
+ .box3{
+    background-color: green;
+    color: white;
+    border-radius: 50%;
+    text-align: center;
+    width: 70px;
+    height: 70px;
+    font-size: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+ 
+
+
